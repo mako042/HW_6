@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "fastify": "^5.8.5"
-  }
+  },
+  "name": "hw_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/tasks/fastify-basic/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mako042/HW_6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mako042/HW_6/issues"
+  },
+  "homepage": "https://github.com/mako042/HW_6#readme"
 }
