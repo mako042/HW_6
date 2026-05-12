@@ -9,7 +9,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/tasks/fastify-basic/server.js"
+    "start": "node src/tasks/fastify-basic/server.js",
+    "start:crud": "node src/tasks/fastify-crud/server.js"
   },
   "repository": {
     "type": "git",
